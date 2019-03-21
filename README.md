@@ -6,6 +6,9 @@ I had some Problems during the "Installation" of Atom Portable and thats why i a
 Some things you need to have:
 
 *Linux (Only at the Moment i will release the Portable version for more Systems later!)
+
 *Internet Connection!
+
 *An Directory YOU can delete!
+
 *And the Atom-Portable-amd35.zip(for debian)
