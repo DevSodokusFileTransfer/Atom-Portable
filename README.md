@@ -11,4 +11,4 @@ Some things you need to have:
 
 *An Directory YOU can delete!
 
-*And the Atom-Portable-amd35.zip(for debian)
+*And the Atom-35-amd.zip(for debian)
