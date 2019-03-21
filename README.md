@@ -1,2 +1,2 @@
 # Atom-Portable
-Here you can find Atom Portable more realeases will come soon!
+Here you can find Atom Portable more releases will come soon!
