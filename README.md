@@ -6,7 +6,7 @@
 ```
 ## Some things you need to have:
 
-*Linux (Only at the Moment i will release the Portable version for more Systems later!)
+*Linux Debian ( Only at the Moment i will release the Portable version for more Systems later! )
 
 *Internet Connection!
 
